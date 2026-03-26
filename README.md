@@ -55,47 +55,6 @@ I enjoy clean architecture, working in teams, and shipping things that actually 
 
 ---
 
-## 📌 Featured Projects
-
-### 🏢 [VisiGate](https://github.com/Sciacca17/Project-Work) *(Group Project)*
-> Web app for digitizing and managing company visitor access flows.
-
-Built with a team of 5 as a school project. Role-based access for visitors, internal referents, receptionists, and admins. Real-time entry/exit monitoring.
-
-`Angular` `TypeScript` `SCSS` `Spring Boot` `Java 17` `MySQL`
-
----
-
-### 📖 [FullStackOpen Exercises](https://github.com/AleIodi/fullstackopen)
-> My solutions for the University of Helsinki's Full Stack Development course.
-
-Covers React fundamentals, state management, REST APIs, and Node.js. The Part 3 phonebook app is **live on Render**.
-
-`React` `Node.js` `JavaScript` · [🌐 Live Demo](https://fso-phonebook-backend-br8e.onrender.com)
-
----
-
-### 📞 [Phonebook REST API](https://github.com/AleIodi/fso-phonebook-backend)
-> Backend service for a phonebook application with full CRUD, validation, and error handling.
-
-`Node.js` `Express` `MongoDB` `JavaScript`
-
----
-
-### 📱 [iOS Exam App](https://github.com/AleIodi/examIOSApp)
-> Native iOS application built for an exam, with a Java backend handling the data layer.
-
-`Swift` `Java`
-
----
-
-### 🍽️ [Delicious Recipes Website](https://github.com/AleIodi/exam-website)
-> A multi-page vanilla website for browsing and discovering recipes. Built as a UFS08 exam project.
-
-`HTML` `CSS` `JavaScript`
-
----
-
 ## 📊 GitHub Stats
 
 <div align="center">
