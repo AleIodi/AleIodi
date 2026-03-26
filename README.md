@@ -3,9 +3,7 @@
 
 # Hi, I'm Alessandro 👋
 
-**Full Stack Developer · Software Architect Student · Builder of real-world apps**
-
-*From iOS apps to REST APIs to Angular SPAs — I like building things end to end.*
+**Junior Full Stack Developer · Software Architect Student · Builder of real-world apps**
 
 [![Profile Views](https://komarev.com/ghpvc/?username=AleIodi&color=6366f1&style=flat-square)](https://github.com/AleIodi)
 
@@ -124,7 +122,7 @@ Covers React fundamentals, state management, REST APIs, and Node.js. The Part 3 
 
 ---
 
-## 📫 Socials
+## 🌐 Socials
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/alessandro-iodice-69093b341)
 
