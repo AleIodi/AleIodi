@@ -15,7 +15,7 @@
 
 ## 🧑‍💻 About Me
 
-I'm a Software Architect specialist student (ITS Angelo Rizzoli, 2023–2025 edition) based near Milan, Italy.
+I'm a Software Architect specialist student (ITS Angelo Rizzoli, 2024–2026 edition) based near Milan, Italy.
 I've worked across the full stack — REST APIs with Node.js, mobile apps in Swift, backend services in Java/Spring Boot, and frontend SPAs with Angular and React.
 I enjoy clean architecture, working in teams, and shipping things that actually run in production.
 
