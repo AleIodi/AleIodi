@@ -5,8 +5,6 @@
 
 **Junior Full Stack Developer · Software Architect Student · Builder of real-world apps**
 
-[![Profile Views](https://komarev.com/ghpvc/?username=AleIodi&color=6366f1&style=flat-square)](https://github.com/AleIodi)
-
 </div>
 
 ---
