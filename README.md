@@ -16,7 +16,6 @@ I've worked across the full stack — REST APIs with Node.js, mobile apps in Swi
 I enjoy clean architecture, working in teams, and shipping things that actually run in production.
 
 - 🎓 Currently completing my **ITS Software Architect** program
-- 🚀 Currently building a **field service management PWA** as my thesis project (Angular 20)
 - 🤝 Open to collaboration on full-stack or mobile projects
 - 📍 Milan area, Italy
 
