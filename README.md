@@ -56,17 +56,13 @@ I enjoy clean architecture, working in teams, and shipping things that actually 
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=AleIodi&show_icons=true&theme=dark&hide_border=true">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=AleIodi&show_icons=true&theme=default&hide_border=true">
-  <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=AleIodi&show_icons=true&theme=default&hide_border=true">
-</picture>
+<!-- GitHub Stats -->
+![GitHub Stats Dark](./profile/stats-dark.svg#gh-dark-mode-only)
+![GitHub Stats Light](./profile/stats-light.svg#gh-light-mode-only)
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=AleIodi&layout=compact&theme=dark&hide_border=true">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=AleIodi&layout=compact&theme=default&hide_border=true">
-  <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AleIodi&layout=compact&theme=default&hide_border=true">
-</picture>
+<!-- Top Languages -->
+![Top Languages Dark](./profile/top-langs-dark.svg#gh-dark-mode-only)
+![Top Languages Light](./profile/top-langs-light.svg#gh-light-mode-only)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=AleIodi&theme=dark&hide_border=true">
