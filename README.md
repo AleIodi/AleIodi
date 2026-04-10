@@ -64,7 +64,6 @@ I enjoy clean architecture, working in teams, and shipping things that actually 
 
 <!-- Your Streak Stats below them -->
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AleIodi&theme=default&hide_border=true#gh-light-mode-only)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AleIodi&theme=dark&hide_border=true#gh-dark-mode-only)
 
 </div>
 
