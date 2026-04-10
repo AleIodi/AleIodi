@@ -56,14 +56,26 @@ I enjoy clean architecture, working in teams, and shipping things that actually 
 
 <div align="center">
 
-<!-- The Dark Mode Images side-by-side -->
-![GitHub Stats Dark](./profile/stats-dark.svg#gh-dark-mode-only) ![Top Languages Dark](./profile/top-langs-dark.svg#gh-dark-mode-only)
+  <!-- GitHub Stats & Top Languages (Side-by-Side) -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./profile/stats-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./profile/stats-light.svg">
+    <img alt="GitHub Stats" src="./profile/stats-light.svg">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./profile/top-langs-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./profile/top-langs-light.svg">
+    <img alt="Top Languages" src="./profile/top-langs-light.svg">
+  </picture>
 
-<!-- The Light Mode Images side-by-side -->
-![GitHub Stats Light](./profile/stats-light.svg#gh-light-mode-only) ![Top Languages Light](./profile/top-langs-light.svg#gh-light-mode-only)
+  <br><br> <!-- Adds a little space between the top row and the streak stats -->
 
-<!-- Your Streak Stats below them -->
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AleIodi&theme=default&hide_border=true#gh-light-mode-only)
+  <!-- Streak Stats (Centered below) -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=AleIodi&amp;theme=dark&amp;hide_border=true">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=AleIodi&amp;theme=default&amp;hide_border=true">
+    <img alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=AleIodi&amp;theme=default&amp;hide_border=true">
+  </picture>
 
 </div>
 
