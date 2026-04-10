@@ -56,19 +56,15 @@ I enjoy clean architecture, working in teams, and shipping things that actually 
 
 <div align="center">
 
-<!-- GitHub Stats -->
-![GitHub Stats Dark](./profile/stats-dark.svg#gh-dark-mode-only)
-![GitHub Stats Light](./profile/stats-light.svg#gh-light-mode-only)
+<!-- The Dark Mode Images side-by-side -->
+![GitHub Stats Dark](./profile/stats-dark.svg#gh-dark-mode-only) ![Top Languages Dark](./profile/top-langs-dark.svg#gh-dark-mode-only)
 
-<!-- Top Languages -->
-![Top Languages Dark](./profile/top-langs-dark.svg#gh-dark-mode-only)
-![Top Languages Light](./profile/top-langs-light.svg#gh-light-mode-only)
+<!-- The Light Mode Images side-by-side -->
+![GitHub Stats Light](./profile/stats-light.svg#gh-light-mode-only) ![Top Languages Light](./profile/top-langs-light.svg#gh-light-mode-only)
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=AleIodi&theme=dark&hide_border=true">
-  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=AleIodi&theme=default&hide_border=true">
-  <img alt="GitHub Streak" src="https://streak-stats.demolab.com?user=AleIodi&theme=default&hide_border=true">
-</picture>
+<!-- Your Streak Stats below them -->
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AleIodi&theme=default&hide_border=true#gh-light-mode-only)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AleIodi&theme=dark&hide_border=true#gh-dark-mode-only)
 
 </div>
 
