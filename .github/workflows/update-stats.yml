@@ -1,0 +1,59 @@
+name: Update README Stats
+
+on:
+  schedule:
+    - cron: "0 0 * * *" # Runs automatically once a day at midnight
+  workflow_dispatch: # Allows you to run it manually right now
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write # Allows the bot to push images to your repo
+    steps:
+      - uses: actions/checkout@v4
+      
+      # 1. Generate Main Stats (Light Theme)
+      - name: Generate stats card (Light)
+        uses: soulteary/github-readme-stats-action@v1.0.0
+        with:
+          card: stats
+          options: 'username=${{ github.repository_owner }}&show_icons=true&theme=default&hide_border=true'
+          path: profile/stats-light.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      # 2. Generate Main Stats (Dark Theme)
+      - name: Generate stats card (Dark)
+        uses: soulteary/github-readme-stats-action@v1.0.0
+        with:
+          card: stats
+          options: 'username=${{ github.repository_owner }}&show_icons=true&theme=dark&hide_border=true'
+          path: profile/stats-dark.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      # 3. Generate Top Languages (Light Theme)
+      - name: Generate top languages card (Light)
+        uses: soulteary/github-readme-stats-action@v1.0.0
+        with:
+          card: top-langs
+          options: 'username=${{ github.repository_owner }}&layout=compact&theme=default&hide_border=true'
+          path: profile/top-langs-light.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      # 4. Generate Top Languages (Dark Theme)
+      - name: Generate top languages card (Dark)
+        uses: soulteary/github-readme-stats-action@v1.0.0
+        with:
+          card: top-langs
+          options: 'username=${{ github.repository_owner }}&layout=compact&theme=dark&hide_border=true'
+          path: profile/top-langs-dark.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      # 5. Save the images to your repository
+      - name: Commit cards
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add profile/*.svg
+          git commit -m "Update README stats cards" || exit 0
+          git push
