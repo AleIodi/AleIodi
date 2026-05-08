@@ -3,7 +3,7 @@
 
 # Hi, I'm Alessandro 👋
 
-**Junior Full Stack Developer · Software Architect Student · Builder of real-world apps**
+**Junior Full Stack Developer · Software Architect Student**
 
 </div>
 
@@ -12,7 +12,7 @@
 ## 🧑‍💻 About Me
 
 I'm a Software Architect specialist student (ITS Angelo Rizzoli, 2024–2026 edition) based near Milan, Italy.
-I've worked across the full stack — REST APIs with Node.js, mobile apps in Swift, backend services in Java/Spring Boot, and frontend SPAs with Angular and React.
+I've worked across the full stack — REST APIs with Node.js, mobile apps in Swift and Java, backend services in Java/Spring Boot, and frontend SPAs with React and Angular.
 I enjoy clean architecture, working in teams, and shipping things that actually run in production.
 
 - 🎓 Currently completing my **ITS Software Architect** program
@@ -55,7 +55,6 @@ I enjoy clean architecture, working in teams, and shipping things that actually 
 
 <div align="center">
 
-  <!-- GitHub Stats & Top Languages (Side-by-Side) -->
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./profile/stats-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="./profile/stats-light.svg">
@@ -67,9 +66,8 @@ I enjoy clean architecture, working in teams, and shipping things that actually 
     <img alt="Top Languages" src="./profile/top-langs-light.svg">
   </picture>
 
-  <br><br> <!-- Adds a little space between the top row and the streak stats -->
+  <br><br>
 
-  <!-- Streak Stats (Centered below) -->
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=AleIodi&amp;theme=dark&amp;hide_border=true">
     <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=AleIodi&amp;theme=default&amp;hide_border=true">
